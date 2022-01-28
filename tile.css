@@ -1,0 +1,44 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color:blue;
+  font-family:helvetica;
+  margin-left: 530px;
+}
+
+p {
+  color:orange;
+  background-color: white;
+  border:10px dotted yellow;
+}
+
+.top {
+  background-color: lime;
+  float: right;
+}
+
+h2 {
+  background-color: lavender;
+  margin-left:575px;
+  margin-right:547px;
+  font-family:"Arial";
+  text-transform: uppercase;
+}
+
+h5 {
+  color:green;
+  background-color: turquoise;
+  border:5px solid red;
+  margin-left:525px;
+  margin-right:500px;
+  padding:10px;
+}
+
+img {
+  border:5px solid fuchsia;
+  width:25%;
+  height:25%;
+  margin-left: 500px;
+}
